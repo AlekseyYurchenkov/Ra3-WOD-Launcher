@@ -1,0 +1,8 @@
+﻿[0.09b]
+# USA
+## Structures
+### Barracks
+	Added to the mod
+	Now can build USA infantry
+## Infantry
+### USA Engineer
